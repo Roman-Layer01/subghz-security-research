@@ -1,5 +1,3 @@
-# subghz-security-research
-Passive Sub-GHz RF analysis, rolling-code security research, and controlled wireless testing using Flipper Zero and HaleHound.
 # Sub-GHz Security Research
 
 ### RF Signal Analysis | Rolling-Code Authentication | Wireless Security Testing
